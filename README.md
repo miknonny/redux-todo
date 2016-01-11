@@ -1,2 +1,3 @@
-# kanban
-An app for tracking the progress your work
+# React Boiler plate.
+
+An easy startup for react applications.
