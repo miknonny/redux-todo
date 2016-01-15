@@ -1,6 +1,6 @@
 # React Boiler plate.
 
-An easy startup for react applications.
+A simple Todo App built with React and Redux.
 
 ## HOW TO.
 npm install
