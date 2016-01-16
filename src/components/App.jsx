@@ -31,7 +31,7 @@ export default class App extends Component {
         <Footer
           filter="SHOW_ALL"
           onFilterChange={filter =>
-          console.log('filter change', filter)
+            console.log('filter change', filter)
           } />
       </div>
     )
