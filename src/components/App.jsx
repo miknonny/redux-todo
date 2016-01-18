@@ -21,8 +21,8 @@ class App extends Component {
           } />
         <TodoList
           todos={visibleTodos}
-          onTodoClick={index =>
-            dispatch(completeTodo(index))
+          onTodoClick={id =>
+            dispatch(completeTodo(id))
             } />
         <Footer
           filter={visibilityFilter}
